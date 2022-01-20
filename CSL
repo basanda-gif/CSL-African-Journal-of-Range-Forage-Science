@@ -16,7 +16,7 @@
     <eissn>1727-9380</eissn>
     <issnl>1022-0119</issnl>
     <published>Taylor and Francis Ltd.</published>
-    <updated>2022-01-20T10:29:55+00:00</updated>
+    <updated>2022-01-20T10:41:04+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -37,7 +37,7 @@
   </macro>
   <macro name="author">
     <names variable="author">
-      <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="always" et-al-min="11" et-al-use-first="10"/>
+      <name delimiter-precedes-last="always" et-al-min="19" et-al-use-first="19" et-al-subsequent-min="19" et-al-subsequent-use-first="19" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
       <label form="short" prefix=" (" suffix=")"/>
       <substitute>
         <names variable="editor"/>
